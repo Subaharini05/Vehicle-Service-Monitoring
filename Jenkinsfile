@@ -10,7 +10,7 @@ pipeline {
 
         stage('Run Vehicle Monitoring') {
             steps {
-                bat 'python vehicle_service.py'
+                bat  '"C:\\Users\\ELCOT\\AppData\\Local\\Python\\bin\\python.exe" vehicle_service.py'
             }
         }
 
