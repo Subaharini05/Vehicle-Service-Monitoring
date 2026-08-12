@@ -5,7 +5,7 @@ vehicles = [
     {
         "vehicle_id": "V001",
         "vehicle_number": "TN-37-AB-1234",
-        "owner": "Arun Kumar",",
+        "owner": "Arun Kumar",
         "service_due": "2026-08-15",
         "status": "Due Soon"
     },
